@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: b89b321350b3d8949a1ae4cec5620ffa
+timeCreated: 1545523815
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NanumSquareRound
+  fontNames:
+  - NanumSquareRound
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2b97225147aa9134189cb62f015dde68, type: 3}
+  - {fileID: 12800000, guid: 58c57d276d4e615449a9694bc8f331db, type: 3}
+  - {fileID: 12800000, guid: a48e0e0badd840449b88d77260210fa3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
